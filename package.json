@@ -1,6 +1,6 @@
 {
   "name": "generator-bones",
-  "version": "0.0.2",
+  "version": "0.0.3-mark",
   "description": "Yeoman generator for scaffolding out a basic web project.",
   "keywords": [
     "yeoman-generator",
@@ -9,7 +9,7 @@
     "theme",
     "front-end"
   ],
-  "homepage": "https://github.com/matt-bailey/generator-bones",
+  "homepage": "https://github.com/markisadesignerd/generator-bones",
   "bugs": "https://github.com/matt-bailey/generator-bones/issues",
   "author": {
     "name": "Matt Bailey",
@@ -19,7 +19,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/matt-bailey/generator-bones.git"
+    "url": "git://github.com/markisadesignerd/generator-bones.git"
   },
   "scripts": {
     "test": "mocha"
