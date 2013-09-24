@@ -10,7 +10,7 @@
     "front-end"
   ],
   "homepage": "https://github.com/markisadesignerd/generator-bones",
-  "bugs": "https://github.com/matt-bailey/generator-bones/issues",
+  "bugs": "https://github.com/markisadesignerd/generator-bones/issues",
   "author": {
     "name": "Matt Bailey",
     "email": "me@mattbailey.co",
@@ -19,7 +19,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/markisadesignerd/generator-bones.git"
+    "url": "https://github.com/markisadesignerd/generator-bones.git"
   },
   "scripts": {
     "test": "mocha"
